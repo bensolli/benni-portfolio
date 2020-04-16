@@ -1,0 +1,21 @@
+.contact-form{
+    margin: 100px 0 50px 0;
+    input, textarea{
+        border-radius: 0;
+        background-color: rgb(237, 237, 237);
+        border: transparent;
+        border-bottom: 2px solid black;
+        padding: 30px;
+        min-width: 200px;
+    }
+    textarea{
+        min-height: 200px;
+    }
+    .btn{
+        background-color: #33b2dd;
+        color: black;
+        &:hover{
+            background-color: #116581;
+        }
+    }
+}
