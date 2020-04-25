@@ -50,7 +50,7 @@ export default () => {
                                 })
                         }}
                         {{
-                            header: "Voulentary work",
+                            header: "Voluntary work",
                             body:
                                 volData.map((value, index) => {
                                     return <Voulentary key={index}
