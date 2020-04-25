@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Bachelor oppgave",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": "Link til nettsiden:",
+        "linkDescription2": "Link til GitHub:",
+        "links": [
+            " ",
+            " "
+        ],
+        "img": "../images/bacheloroppgave.png"
+    },
+    {
+        "id": 2,
+        "name": "Besseggen",
+        "desc": "Noroff samarbeid med Besseggen Arkitekter. Oppgave i å designe og utvikle ny nettside for Besseggen Arkitekter",
+        "linkDescription1": "Link til nettsiden:",
+        "linkDescription2": " ",
+        "links": [
+            "http://besseggen.benni.no/",
+            " "
+        ],
+        "img": "../images/besseggen.png"
+    },
+        
+    {
+        "id": 3,
+        "name": "Lørn.tech",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": " ",
+        "linkDescription2": " ",
+        "links": [
+            " ",
+            " "
+        ],
+        "img": "../images/lorn_tech.png"
+    },
+    {
+        "id": 4,
+        "name": "Re Cycle",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": " ",
+        "linkDescription2": " ",
+        "links": [
+            " ",
+            " "
+        ],
+        "img": "../images/recycle.png"
+    },
+    {
+        "id": 5,
+        "name": "Red Pepper",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": " ",
+        "linkDescription2": " ",
+        "links": [
+            " ",
+            " "
+        ],
+        "img": "../images/redpepper.png"
+    },
+    {
+        "id": 6,
+        "name": "Sushi icons",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": " ",
+        "linkDescription2": " ",
+        "links": [
+            " ",
+            " "
+        ],
+        "img": "../images/sushi.png"
+    },
+    {
+        "id": 7,
+        "name": "Workflow1",
+        "desc": "ablablablablabllabla",
+        "linkDescription1": "Link til nettsiden:",
+        "linkDescription2": "Link til GitHub:",
+        "links": [
+            "http://got.benni.no",
+            "https://github.com/bensolli/benni-semesterproject-3"
+        ],
+        "img": "../images/workflow.png"
+    },
+    {
+        "id": 8,
+        "name": "Game of Thrones The board game",
+        "desc": "I semester prosjekt 3 fikk jeg i oppgave å utvikle et brettspill inspirert av den verdensberømte tv-serien Game of Thrones. Brettspillet skulle bygges med JavaScript, HTML5 og SASS. Det var også et stort bonus å lage eget designkonsept, som er inspirert av den kjente Lego Minimalist Campaign. For å øke brukeropplevelsen er spillet integrert med lydeffekter og programmert til å fungere via tastaturet. Resurces: http://soundbible.com/",
+        "linkDescription1": "Link til nettsiden:",
+        "linkDescription2": "Link til GitHub:",
+        "links": [
+            "http://got.benni.no",
+            "https://github.com/bensolli/benni-semesterproject-3"
+        ],
+        "img": "https://www.benni.no/wp-content/uploads/2019/12/Skjermbilde-2019-12-15-kl.-13.52.21.png"
+    }
+    
+]

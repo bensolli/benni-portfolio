@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Linda Hesselberg",
+        "desc": "COO og partner for Lørn.tech"
+    },
+    {
+        "id": 2,
+        "name": "Ingrid",
+        "desc": "Graphic desinger for Klipp og Lim"
+    },
+    {
+        "id": 3,
+        "name": "Thomas Nordby",
+        "desc": "Teacher at Grapic design"
+    },
+    {
+        "id": 4,
+        "name": "Ole Marius",
+        "desc": "CEO for Shoplabs"
+    },
+    {
+        "id": 5,
+        "name": "-:More by request:-"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "background": "../images/natural.png"
+    },
+    {
+        "id": 2,
+        "background": "../images/pink.png"
+    },
+    {
+        "id": 3,
+        "background": "https://media.giphy.com/media/WoBbGQ7cbjiqk/giphy.gif"
+    },
+    {
+        "id": 4,
+        "background": "https://shared.cdn.smp.schibsted.com/v2/images/82dd5e2c-3919-44cc-8a4e-228de81827bb?fit=crop&h=675&w=1200&s=0b856a5efceadcdefc79f664f1a3fd0dfc6a65cb"
+    },
+    {
+        "id": 5,
+        "background": "https://media.giphy.com/media/E4GJJ2oCYlWMw/giphy.gif"
+    },
+    {
+        "id": 6,
+        "background": "https://media.giphy.com/media/Um3ljJl8jrnHy/giphy.gif"
+    },
+    {
+        "id": 7,
+        "background": "https://media.giphy.com/media/NmGbJwLl7Y4lG/giphy.gif"
+    },
+    {
+        "id": 8,
+        "background": "https://media-exp1.licdn.com/dms/image/C5603AQHyOaC7KBtrqQ/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=fpF4bLkN1xoANPpO0k59iXKRgppcoWsHJDMGBrtbo8E"
+    },
+    {
+        "id": 9,
+        "background": "https://cdn.pixabay.com/photo/2019/09/13/11/47/tatry-4473761_960_720.jpg"
+    },
+    {
+        "id": 10,
+        "background": "https://media.giphy.com/media/8cEFp9dQCcE8M/giphy.gif"
+    },
+    {
+        "id": 11,
+        "background": "https://media.giphy.com/media/hYXKE2SGWmYIU/giphy.gif"
+    },
+    {
+        "id": 2,
+        "background": "../images/nerds.jpg"
+    }
+]
+
+

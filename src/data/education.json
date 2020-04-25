@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "2019-/current",
+        "name": "Noroff Fagskole",
+        "desc": "Frontend utvikler"
+    },
+    {
+        "id": 2,
+        "date": "2015-2018",
+        "name": "Høyskolen Kristiania",
+        "desc": "Graphic Design"
+    },
+    {
+        "id": 3,
+        "date": "2014-2015t",
+        "name": "Gateakademiet",
+        "desc": "Trykk & fotografi, silketrykk, formgiving"
+    }
+]
