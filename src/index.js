@@ -11,10 +11,15 @@ import {
 import './index.css';
 import App from './App';
 import Homepage from './pages/Homepage';
-import cardSpecific from './pages/Card-specific';
-import About from './pages/About';
+import Bio from './pages/Bio';
+import Desktop from './pages/Desktop';
 import Contact from './pages/Contact';
 import * as serviceWorker from './serviceWorker';
+import About from './pages/About';
+import Dashboard from './pages/Dashboard';
+import Gallery from './pages/Gallery';
+import GallerySpecific from './pages/Gallery-specific';
+import Backgrounds from './pages/Backgrounds';
 
 
 ReactDOM.render(
@@ -22,9 +27,14 @@ ReactDOM.render(
         <App>
             <Switch>
                 <Route path="/" exact component={Homepage} />
-                <Route path="/about" component={About} />
-                <Route path="/cardSpecific/:id" exact component={cardSpecific} />
+                <Route path="/bio" component={Bio} />
                 <Route path="/contact" component={Contact} />
+                <Route path="/desktop" component={Desktop} />
+                <Route path="/about" component={About} />
+                <Route path="/dashboard" component={Dashboard} />
+                <Route path="/gallery" component={Gallery} />
+                <Route path="/backgrounds" component={Backgrounds} />
+                <Route path="/gallerySpecific/:id" exact component={GallerySpecific} />
             </Switch>
         </App>
     </Router>,
