@@ -14,7 +14,6 @@ export const AccordionContent = ({ OpenIt, isOpen, header, children }) => {
         </>
     )
 }
-
 export default ({ children }) => {
     const [whatIsOpen, setWhatIsOpen] = useState(undefined);
     const OpenIt = (index) => {
