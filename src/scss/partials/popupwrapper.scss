@@ -1,0 +1,93 @@
+.popupwrapper{
+    background: $white;
+    box-shadow: 5px 5px 0px 5px $dark;
+    border-radius: 10px;
+    margin-top: 50px;
+    min-height: 600px;
+    border: 4px solid $dark;
+    z-index: 999;
+    &_header{
+        top: 0;
+        border-bottom: 4px solid $dark;
+        min-height: 80px;
+        padding: 20px 40px 20px 40px;
+        background: $gray;
+        border-radius: 10px 10px 0 0;
+        &_btn{
+            display: inline;
+            &-1{
+                border-radius: 100%;
+                width: 25px;
+                height: 25px;
+                background-color: $red;
+                border: 4px solid $dark;
+            }
+            &-darkmode{
+                border-radius: 100%;
+                width: 25px;
+                height: 25px;
+                background-color: $dark;
+                border: 4px solid $dark;
+                margin-left: 10px;
+            }
+        }
+        &_title{
+            float: right;
+            h1{
+                margin: 0;
+            }
+        }
+    }
+    .buttons {
+        margin-left: 10px;
+        min-width: 200px;
+        min-height: 60px;
+        border-radius: 5px;
+        padding: 20px;
+        border: 4px solid $dark;
+    }
+  ::-webkit-scrollbar {
+    width: 20px;
+  }
+  ::-webkit-scrollbar-track {
+    background: $background; 
+  }
+  ::-webkit-scrollbar-thumb {
+    background: $dark; 
+    border-radius: 5px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: $white; 
+    border: 4px solid $dark;
+    border-radius: 5px;
+  }
+    &_content{
+        height: 340px;
+        margin: 40px;
+        padding: 20px;
+        overflow-y: auto; 
+
+        ul{padding: 0;}
+        li{list-style-type: none;}
+
+        .buttons {
+            margin-left: 0;
+        }
+    }
+    &_buttons{
+        padding: 0 40px 0 40px;
+        position: absolute;
+        bottom: 40px;
+        right: 20px;
+        color: $dark;
+        &-cta{
+            background-color: $dark;
+            color: $white;
+            &:hover{
+                opacity: 0.7;
+                transition: ease-in-out 0.3s;
+            }
+        }
+
+    }
+}

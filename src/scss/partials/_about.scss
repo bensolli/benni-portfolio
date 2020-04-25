@@ -1,39 +1,33 @@
 
-
 .accordion{
-    margin-top: 100px;
-
     &-header{   
         text-transform: uppercase;
         font-weight: 700;
         margin-bottom: 5px;
         color: white;
         padding: 5px 10px 5px 10px;
-        background-color: #33b2dd;
+        background-color: $dark;
         position: relative;
-
+        border-radius: 5px;
         &_arrow{
             float: right;
             transform: rotate(90deg);
         }
     }
-
     &-header:hover{
         cursor: pointer;
         background-color: #116581;
         transition: ease-in-out .3s;
     }
-
-
-&-content{
-    margin-top: -5px;
-    margin-bottom: 5px;
-    border: 1px solid rgb(87, 87, 87);
-    color: black;
-    padding: 40px;
-    &__hide{
-        display: none;
+    &-content{
+        margin-top: -10px;
+        margin-bottom: 5px;
+        border: 4px solid $dark;
+        color: black;
+        padding: 40px;
+        border-radius: 0 0 5px 5px;
+        &__hide{
+            display: none;
+        }
     }
-}
-
 }
