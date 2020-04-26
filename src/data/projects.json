@@ -40,10 +40,10 @@
         "id": 4,
         "name": "Re Cycle",
         "desc": "Første utvikling av nettside på fagskoleutdanningen Front-end Utvikling på Noroff. Fiksjonell nettside for et sykkeltur-tilbud.",
-        "linkDescription1": "http://recycle.benni.no/",
+        "linkDescription1": "Link til nettsiden:",
         "linkDescription2": " ",
         "links": [
-            " ",
+            "http://recycle.benni.no/",
             " "
         ],
         "img": "../images/recycle.png"
