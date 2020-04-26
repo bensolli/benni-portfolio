@@ -3,10 +3,7 @@ import 'bootstrap3/dist/css/bootstrap.min.css';
 import './scss/styles.scss'
 import Navigation from './components/navigation';
 
-
-
 export const BackgroundContext = createContext();
-
 
 export default (props) => {
 
@@ -29,8 +26,9 @@ export default (props) => {
             <div className="row">
               {props.children}
             </div>
-                  <Navigation />
+
       </div>
+      <Navigation />
 
       </BackgroundContext.Provider>
   )

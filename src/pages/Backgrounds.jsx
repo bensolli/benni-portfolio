@@ -17,7 +17,7 @@ export default () => {
             <div className="col-sm-10">
                 <div className="[ popupwrapper ]">
                     <Popup
-                        header='Choose a theme'
+                        header='Themes'
                     />
                     <div className="[ popupwrapper_content ]">
                         <BackgroundContext.Consumer>

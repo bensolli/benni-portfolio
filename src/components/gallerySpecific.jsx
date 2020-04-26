@@ -1,10 +1,11 @@
 import React from 'react';
 
-export default ({ img, desc, links1, links2, linkDescription1, linkDescription2 }) => {
+export default ({ img, desc, links1, links2, linkDescription1, linkDescription2, name }) => {
     return (
         <>
                     <img className="[ gallery-img ]" src={img} alt="Some tag" />
                         <br />
+                        <h1>{name}</h1>
                         <p>{desc}</p>
                         <br />
                         <ul>

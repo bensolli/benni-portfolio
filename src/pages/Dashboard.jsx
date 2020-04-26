@@ -7,7 +7,10 @@ export default () => {
     return (
         <div className="col-sm-12">
             <div className="[ popupwrapper ]">
-                <Popup header='What would you like to do?' />
+                <Popup header='choices!' />
+                <div className="[ popupwrapper_content ]">
+                    <h1>What would you like to do?</h1>
+                </div>
                 <div className="[ popupwrapper_buttons ]">
                     <Back />
                     <Link to="/Gallery"><button className="[ popupwrapper_buttons-cta ][ buttons ]">Look at Gallery</button></Link>

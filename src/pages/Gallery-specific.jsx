@@ -9,12 +9,13 @@ export default ({ match: { params: { id } } }) => {
     return (
         <div className="col-sm-10">
             <div className="[ popupwrapper ]">
-                <Popup header={gaData.name} />
+                <Popup header={gaData.id} />
                 <div className="[ popupwrapper_content ]">
                     {
                         <div>
                             <GallerySpesific
                                 img={`${gaData.img}`}
+                                name={`${gaData.name}`}
                                 desc={gaData.desc}
                                 links1={`${gaData.links[0]}`}
                                 links2={`${gaData.links[1]}`}
