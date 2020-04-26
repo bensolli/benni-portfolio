@@ -2,19 +2,37 @@
     {
         "id": 1,
         "date": "2019-/current",
-        "name": "Lørn.tech",
-        "desc": "Graphic Designer"
+        "name": "Lørn.tech AS",
+        "desc": "Graphic Designer / Webdesigner"
     },
     {
         "id": 2,
         "date": "2019-/current",
-        "name": "Lørn.tech",
-        "desc": "Graphic Designer"
+        "name": "Shoplabs AS",
+        "desc": "Graphic Designer / Webdesigner"
     },
     {
         "id": 3,
-        "date": "2019-/current",
-        "name": "Lørn.tech",
-        "desc": "Graphic Designer"
+        "date": "2018-2019",
+        "name": "Ahead Connect AS",
+        "desc": "Promotør"
+    },
+    {
+        "id": 4,
+        "date": "2018-2019",
+        "name": "Superblais / Untold Insights",
+        "desc": "Grafisk Designer for ”Creative Industry Brief”"
+    },
+    {
+        "id": 5,
+        "date": "Høst 2019",
+        "name": "Klipp og Lim Media AS",
+        "desc": "Internship i forbindelse med ”Bachelor Grafisk Design”"
+    },
+    {
+        "id": 6,
+        "date": "Høst 2019",
+        "name": "Norstat, Trondheim",
+        "desc": "Telefonundersøkelser"
     }
 ]

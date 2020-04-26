@@ -1,20 +1,26 @@
 [
     {
         "id": 1,
-        "date": "2019-/current",
-        "name": "Noroff Fagskole",
+        "date": "2019-2020",
+        "name": "Noroff Fagskole, Oslo",
         "desc": "Frontend utvikler"
     },
     {
         "id": 2,
         "date": "2015-2018",
-        "name": "Høyskolen Kristiania",
+        "name": "Høyskolen Kristiania, Trondheim",
         "desc": "Graphic Design"
     },
     {
         "id": 3,
         "date": "2014-2015t",
-        "name": "Gateakademiet",
-        "desc": "Trykk & fotografi, silketrykk, formgiving"
+        "name": "Gateakademiet, Kristiansand",
+        "desc": "Foto + Grafisk (”Grunnleggende kurs i fotografi og trykk og digital kunst”)"
+    },
+    {
+        "id": 4,
+        "date": "2014-2015t",
+        "name": "Tangen videregåene skole, Kristiansand",
+        "desc": "Studiespesialiserende m/formgivning. Valgfag i Trygg & Foto og Entreprenørskap"
     }
 ]

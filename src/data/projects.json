@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Bachelor oppgave",
-        "desc": "ablablablablabllabla",
+        "desc": " ",
         "linkDescription1": " ",
         "linkDescription2": " ",
         "links": [
@@ -27,7 +27,7 @@
     {
         "id": 3,
         "name": "Lørn.tech",
-        "desc": "ablablablablabllabla",
+        "desc": "Oppgaven som konkluderer fullført første år på front-end utvikling. Problemstillingen var valgfritt, men måtte teste oss på hva vi hadde lært så langt av enkle JavaScript funksjoner, html5, css og interaksjonsdesign. I forbindelse med at Lørn.tech trengte en ny oppfriskning av sin nettside, klaffet det godt å bruke dem som utgangspunkt i min prosjekt-eksamen. i tillegg til Prosjekteksamens krav, ønsket jeg også å undersøke hvordan det kunne integreres som et custom theme i WordPress. Takknemlig for et godt samarbeid med prosjektlederne for Lørn, Linda Hesselberg og Kristine Masdal Aadne fikk vi diskutert og undersøkt hva som burde være med, fjernes, eventuelt omformes i et nytt informasjonsarkitektur til det nye designet.",
         "linkDescription1": " ",
         "linkDescription2": " ",
         "links": [
@@ -39,8 +39,8 @@
     {
         "id": 4,
         "name": "Re Cycle",
-        "desc": "ablablablablabllabla",
-        "linkDescription1": " ",
+        "desc": "Første utvikling av nettside på fagskoleutdanningen Front-end Utvikling på Noroff. Fiksjonell nettside for et sykkeltur-tilbud.",
+        "linkDescription1": "http://recycle.benni.no/",
         "linkDescription2": " ",
         "links": [
             " ",
@@ -51,7 +51,7 @@
     {
         "id": 5,
         "name": "Red Pepper",
-        "desc": "ablablablablabllabla",
+        "desc": "Styletiles er som et visuell identitet som konsenterer på funksjonaliteten i en nettside.",
         "linkDescription1": " ",
         "linkDescription2": " ",
         "links": [
@@ -63,7 +63,7 @@
     {
         "id": 6,
         "name": "Sushi icons",
-        "desc": "ablablablablabllabla",
+        "desc": " ",
         "linkDescription1": " ",
         "linkDescription2": " ",
         "links": [
@@ -75,12 +75,12 @@
     {
         "id": 7,
         "name": "Workflow1",
-        "desc": "ablablablablabllabla",
+        "desc": "Redesign av Front-end Utvikling, studieside | Course assignment/kursseksamen, konkluderende oppgave for fullført kurs i “Workflow” her ble vi testet på hvordan jobbe agile og i Scrum-metoden. Som et gruppe prosjekt ble vi også testet på hvordan vi ved bruk av Github skulle samarbeide på best mulig måte. Gruppemedlemmer: Alexander Sem Scrum master, Benjamin Solli(meg) Art director, Faisal Hameed JavaScript, Merethe Myrhaug Footer & ImageSlider",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": "Link til GitHub:",
         "links": [
-            "http://got.benni.no",
-            "https://github.com/bensolli/benni-semesterproject-3"
+            "https://workflow.benni.no/",
+            " "
         ],
         "img": "../images/workflow.png"
     },
