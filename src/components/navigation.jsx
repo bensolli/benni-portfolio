@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 
 export default () => {
     return (
-        <div className="col-sm-12">
         <nav>
             <ul className="[ navigation-container ]">
                 <Link to="Dashboard"><li className="[ navigation-container__nav-element ]">Explore</li></Link>
@@ -13,7 +12,6 @@ export default () => {
                 <Link to="/Backgrounds"><li className="[ navigation-container__nav-element ]">Theme</li></Link>
             </ul>
         </nav>
-        </div>
     )
 }
 

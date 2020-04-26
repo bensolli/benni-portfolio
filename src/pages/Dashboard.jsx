@@ -5,7 +5,7 @@ import Back from "../components/back";
 
 export default () => {
     return (
-        <div className="col-sm-10">
+        <div className="col-sm-12">
             <div className="[ popupwrapper ]">
                 <Popup header='What would you like to do?' />
                 <div className="[ popupwrapper_buttons ]">

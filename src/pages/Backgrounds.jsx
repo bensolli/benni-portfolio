@@ -7,9 +7,11 @@ import Popup from '../components/popup'
 export default () => {
     const [radioState, setRadioState] = useState('../images/natural.png');
     console.log(radioState);
+    
     const changeBackground = (callback) => {
         localStorage.setItem('Background Images', callback);
     }
+
     return (
         <>
             <div className="col-sm-10">

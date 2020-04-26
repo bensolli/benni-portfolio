@@ -2,11 +2,12 @@
 .navigation-container{
     padding: 20px;
     width: 80%;
+    top: initial;
     bottom: 10px;
     left: 10%;
     right: 10%;
     position: fixed;
-    z-index: 800;
+    z-index: 10;
     
     &__nav-element{
         padding: 20px 20px 20px 20px;
@@ -26,3 +27,15 @@
         transition: ease-in-out .3s;
     }
 }
+
+@media screen and (max-width: 992px) {
+    .navigation-container{
+        z-index: 10;
+        bottom: initial;
+        top: 0;
+        position: absolute;
+        &__nav-element{
+            display: block;
+        }
+    }    
+  }

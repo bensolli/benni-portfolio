@@ -5,7 +5,7 @@ export default ({ img, onclicked, ifChecked, change }) => {
         <>
             <label className="[ backgroundlabel ]">
                 <input type="radio" className="backgroundlabel_backgroundCheckbox" onClick={onclicked} checked={ifChecked} onChange={change} />
-                <span className="[ checkmark ]"><img src={`${img}`} /></span>
+                <span className="[ checkmark ]"><img src={`${img}`} alt="background" /></span>
             </label>
         </>
     )

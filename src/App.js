@@ -9,6 +9,7 @@ export const BackgroundContext = createContext();
 
 export default (props) => {
   const [background, setBackground] = useState(localStorage.getItem('Background Images'));
+  
   const context = {
     triggerLocalStorageHasChanged: () => {
       setBackground(localStorage.getItem('Background Images'));
@@ -21,9 +22,9 @@ export default (props) => {
         <img src={background} className="[ background-image ]" alt="backgroundImage"/>
             <div className="row">
               {props.children}
-              <Navigation />
             </div>
       </div>
+      <Navigation />
       </BackgroundContext.Provider>
   )
 }

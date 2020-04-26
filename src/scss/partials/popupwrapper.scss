@@ -1,4 +1,7 @@
+
 .popupwrapper{
+    position: relative;
+    width: 100%;
     background: $white;
     box-shadow: 5px 5px 0px 5px $dark;
     border-radius: 10px;
@@ -90,4 +93,31 @@
         }
 
     }
+}
+
+@media screen and (max-width: 992px) {
+    .popupwrapper{
+        margin-top: 20px;
+        min-height: 500px;
+        .buttons {
+            min-width: 84px;
+            min-height: 20px;
+            margin-bottom: 10px;
+            padding: 15px;
+        }
+      ::-webkit-scrollbar {
+        width: 10px;
+      }
+        &_content{
+            height: 300px;
+            margin: 10px;
+            padding: 10px;
+            position: relative
+        }
+        &_buttons{
+            padding: 0 10px 0 10px;
+            bottom: 10px;
+            right: 10px;
+        }  
+  }
 }

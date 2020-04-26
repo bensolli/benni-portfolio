@@ -44,3 +44,11 @@
     position: absolute;
     display: none;
   }
+
+  @media screen and (max-width: 992px) {
+    .checkmark img {
+      height: 90px;
+      width: 90px;
+    }
+
+  }
