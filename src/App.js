@@ -4,10 +4,16 @@ import './scss/styles.scss'
 import Navigation from './components/navigation';
 
 
+
 export const BackgroundContext = createContext();
 
 
 export default (props) => {
+
+  if (localStorage.getItem('Background Images') === null) {
+    localStorage.setItem('Background Images', '../images/natural.png');
+  }    
+
   const [background, setBackground] = useState(localStorage.getItem('Background Images'));
   
   const context = {
@@ -23,8 +29,9 @@ export default (props) => {
             <div className="row">
               {props.children}
             </div>
+                  <Navigation />
       </div>
-      <Navigation />
+
       </BackgroundContext.Provider>
   )
 }
