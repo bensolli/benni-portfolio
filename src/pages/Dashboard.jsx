@@ -9,7 +9,7 @@ export default () => {
             <div className="[ popupwrapper ]">
                 <Popup header='choices!' />
                 <div className="[ popupwrapper_content ]">
-                    <h1>What would you like to do?</h1>
+                    <h2>What would you like to do?</h2>
                 </div>
                 <div className="[ popupwrapper_buttons ]">
                     <Back />
