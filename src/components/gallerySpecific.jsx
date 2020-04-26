@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 export default ({ img, desc, links1, links2, linkDescription1, linkDescription2 }) => {
     return (
