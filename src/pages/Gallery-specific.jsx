@@ -7,10 +7,10 @@ import data from '../data/projects.json'
 export default ({ match: { params: { id } } }) => {
     const gaData = data[id - 1];
     return (
-        <div className="col-sm-10">
-            <div className="[ popupwrapper ]">
+       
+            <div className="[ popupwrapper-specific ]">
                 <Popup header={gaData.id} />
-                <div className="[ popupwrapper_content ]">
+                <div className="[ popupwrapper-specific_content ]">
                     {
                         <div>
                             <GallerySpesific
@@ -25,10 +25,10 @@ export default ({ match: { params: { id } } }) => {
                         </div>
                     }
                 </div>
-                <div className="[ popupwrapper_buttons ]">
+                <div className="[ popupwrapper-specific_buttons ]">
                     <Back />
                 </div>
             </div>
-        </div>
+
     );
 }

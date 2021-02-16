@@ -9,7 +9,12 @@ export default () => {
             <div className="[ popupwrapper ]">
                 <Popup header='ALERT!' />
                 <div className="[ popupwrapper_content ]">
-                    <h2>Looks like you just entered Benni’s portfolio, would you like to continue?</h2>
+
+                    <div class="flex-div"> </div>
+                    <div class="flex-div"><h1>Looks like you just entered Benni’s portfolio, would you like to continue?</h1></div>
+
+
+                    
                 </div>
                 <div className="[ popupwrapper_buttons ]">
                     <Back />

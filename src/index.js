@@ -18,8 +18,9 @@ import * as serviceWorker from './serviceWorker';
 import About from './pages/About';
 import Dashboard from './pages/Dashboard';
 import Gallery from './pages/Gallery';
-import GallerySpecific from './pages/Gallery-specific';
+
 import Backgrounds from './pages/Backgrounds';
+import GalleryOverview from './pages/Gallery-overview';
 
 
 ReactDOM.render(
@@ -32,9 +33,10 @@ ReactDOM.render(
                 <Route path="/desktop" component={Desktop} />
                 <Route path="/about" component={About} />
                 <Route path="/dashboard" component={Dashboard} />
-                <Route path="/gallery" component={Gallery} />
+                <Route path="/gallery/:id" exact component={Gallery} />
                 <Route path="/backgrounds" component={Backgrounds} />
-                <Route path="/gallerySpecific/:id" exact component={GallerySpecific} />
+                <Route path="/galleryoverview" component={GalleryOverview} />
+        
             </Switch>
         </App>
     </Router>,

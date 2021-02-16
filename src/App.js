@@ -8,7 +8,7 @@ export const BackgroundContext = createContext();
 export default (props) => {
 
   if (localStorage.getItem('Background Images') === null) {
-    localStorage.setItem('Background Images', '../images/natural.png');
+    localStorage.setItem('Background Images', 'https://media.giphy.com/media/NmGbJwLl7Y4lG/giphy.gif');
   }    
 
   const [background, setBackground] = useState(localStorage.getItem('Background Images'));

@@ -71,6 +71,7 @@ export default () => {
                                     />
                                 })
                         }}
+                        
                         {{
                             header: "Refrences",
                             body:
@@ -81,6 +82,7 @@ export default () => {
                                     />
                                 })
                         }}
+                        
                     </Accordion>
                 </div>
                 <div className="[ popupwrapper_buttons ]">

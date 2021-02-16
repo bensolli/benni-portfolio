@@ -3,6 +3,7 @@ import BackgroundImages from "../components/background-images";
 import data from '../data/backgrounds.json'
 import { BackgroundContext } from '../App.js'
 import Popup from '../components/popup'
+import Back from "../components/back";
 
 export default () => {
     const [radioState, setRadioState] = useState('../images/natural.png');
@@ -17,7 +18,7 @@ export default () => {
             <div className="col-sm-10">
                 <div className="[ popupwrapper ]">
                     <Popup
-                        header='Themes'
+                        header='Backgrounds'
                     />
                     <div className="[ popupwrapper_content ]">
                         <BackgroundContext.Consumer>
@@ -34,6 +35,9 @@ export default () => {
                                     })
                             }
                         </BackgroundContext.Consumer>
+                    </div>
+                    <div className="[ popupwrapper_buttons ]">
+                    <Back />
                     </div>
                 </div>
             </div>

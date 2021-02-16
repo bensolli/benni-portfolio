@@ -29,7 +29,7 @@
     },
     {
         "id": 8,
-        "background": "https://media-exp1.licdn.com/dms/image/C5603AQHyOaC7KBtrqQ/profile-displayphoto-shrink_200_200/0?e=1593043200&v=beta&t=fpF4bLkN1xoANPpO0k59iXKRgppcoWsHJDMGBrtbo8E"
+        "background": "https://media.giphy.com/media/WoR3wMdCAHd2r8y19d/giphy.gif"
     },
     {
         "id": 9,
@@ -44,8 +44,28 @@
         "background": "https://media.giphy.com/media/hYXKE2SGWmYIU/giphy.gif"
     },
     {
-        "id": 2,
-        "background": "../images/nerds.jpg"
+        "id": 12,
+        "background": "https://media.giphy.com/media/3o6Yg9EEV1IeLRd3Xy/giphy.gif"
+    },
+    {
+        "id": 13,
+        "background": "https://media.giphy.com/media/2OCjvulifvUSk/giphy.gif"
+    },
+    {
+        "id": 14,
+        "background": "https://media.giphy.com/media/8MCKKlQbCxfKE/giphy.gif"
+    },
+    {
+        "id": 15,
+        "background": "https://media.giphy.com/media/FlWpltZ9OOcUg/giphy.gif"
+    },
+    {
+        "id": 16,
+        "background": "../images/pixelart of me poster.png"
+    },
+    {
+        "id": 16,
+        "background": "../images/pixelart of me poster-2.png"
     }
 ]
 

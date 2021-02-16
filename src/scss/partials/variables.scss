@@ -1,5 +1,12 @@
-$background: #EDF5FF;
-$dark: black;
-$white: white;
+$background:#282828;
+$dark: #282828;
+$white: #ffffffed;
 $red: #F59A9A;
-$gray: #F2F2F2;
+$gray: white;
+$blue: #002182f5;
+
+@mixin box-shadow($value) {
+    -webkit-box-shadow: $value;
+    -moz-box-shadow: $value;
+    box-shadow: $value;
+}

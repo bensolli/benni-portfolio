@@ -1,16 +1,18 @@
 
 body{ 
     background: $background;
-    font-family: 'silom','Open Sans', Arial, Helvetica, sans-serif; ;
+    font-family: 'work sans', monospace, 'silom','Open Sans', Arial, Helvetica, sans-serif;
 }
 p {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    color: $dark;
 }
 
-h1 { font-size: 2em; }
-h2 { font-size: 1.5em; }
-h3 { font-size: 1.17em; }
-h4 { font-size: 1.12em; }
-h5 { font-size: .83em; }
-h6 { font-size: .75em; }
+h1 { font-size: 48px; color: $dark; line-height: 1.5em; font-weight: 700; margin:0;}
+h2 { font-size: 1.5em; color: #dddddd; margin: 0; line-height: 1.5em;  font-weight: 700;}
+h3 { font-size: 1.17em; color: $dark; line-height: 1.5em; margin:0}
+h4 { font-size: 1.12em; line-height: 1.5em;}
+h5 { font-size: .83em; color: $dark; line-height: 1.5em;}
+h6 { font-size: .75em; color: $dark; line-height: 1.5em;}
 
+*:focus {outline:none !important}

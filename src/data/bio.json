@@ -3,13 +3,16 @@
         "id": 1,
         "name": "Benjamin Solli",
         "title": "Graphic designer / Frontend Developer",
-        "subtitle": "La meg bli din bedrifts femte design element!",
-        "ingress": "Søker du en designer med lidenskap for brukervennlige løsninger, en som elsker å bidra til undring og glede",
+        "subtitle": "Let me be your company’s fifth design element!",
+        "ingress": "Do you seek a designer with passion for user friendly solutions? Someone who loves to provide wonder and joy to the target in question?",
         "desc": [
-            "Trivelig 24år gammel Sørlending sulten på en spennende jobb.", 
-            "En introvert/ekstrovert type med et  hjerte som en gammel strikke kjerring. Har også en mørkarted humor på en positiv måte.",
-            "Vision: å inspirere og lede ann til en større kreativ hverdag",
-            "Ferdigheter: Illustrasjon, Adobe Photoshop, Illustrator, Indesign, XD, HTML5, CSS, JavaScript, PHP, Wordpress, React,"
+            "Jovial and loyal guy from the South of Norway, migrated to the capital Oslo. Uplifted and positively ambitious for the future. So far in my career I have accumulated my work experience of 3 years, as a freelancer for various companies: Lørn.tech and Shoplabs being the most defining. In general, working with web-design is what gives most joy, however i'm disposed to work with a range between Raw art and Front end development.",
+            "Earlier days -  I started off with analog art, from hand drawing, acrylic paint, silk printing and photography. This soon developed to the passion for graphic design, further on to front end development.",
+            "Here is a list of most unique skills, programs and languages i can work with:",
+            "Adobe: Illustrator/Photoshop/XD/Indesign + Easycatalog - 65bit, https://www.canva.com/",
+            "Programming: HTML5, CSS, SASS, javascript6, React, PHP for wordpress, Hubspot",
+            "Analog skills: Hand drawing, acrylic painting, silk printing, general photography in and out of studio. ",
+            "Leadership skills: Knowledge in project managing, coordinating with people and working in excel, Trello, Asana, Slack and track.toggl.com."
         ]
 
     }

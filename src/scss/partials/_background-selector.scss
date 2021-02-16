@@ -13,8 +13,8 @@
 .backgroundlabel {
     display: inline-flex;
     position: relative;
-    margin-right: 35px;
-    margin-bottom: 12px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     cursor: pointer;
     font-size: 22px;
     &_backgroundCheckbox {
@@ -31,18 +31,28 @@
     height: 150px;
     width: 150px;
     border-radius: 5px;
-    object-fit: cover
+    object-fit: cover;
+    z-index: -2;
   }
-  .backgroundlabel:hover input ~ .checkmark {
-    opacity: 0.5;
+  .backgroundlabel:hover input ~ span.checkmark {
+    @include box-shadow(0px 0px 10px 0px  #000000c7);
+    transform: scale(1.01);
+    transition: ease-in-out 0.4s;
   }
   .backgroundlabel input:checked ~ .checkmark {
-    opacity: 0.5;
+    opacity: 0.3;
   }
   .checkmark:after {
     content: " ";
     position: absolute;
     display: none;
+  }
+
+  span.checkmark {
+    //box-shadow: (inset 0, 0, 20px, 0, rgb(74, 74, 74));
+    //@include box-shadow(inset 0 0 20px 0 #4a4a4a78);
+    @include box-shadow(0px 0px 10px 0px #00000042);
+    border-radius: 5px;
   }
 
   @media screen and (max-width: 992px) {

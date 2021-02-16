@@ -1,8 +1,36 @@
-import React, { useState } from 'react';
+/*import React, { useState } from 'react';*/
+import React from 'react';
 import Popup from '../components/popup'
 import Back from "../components/back";
 
+    
+export default () => { 
+
+    return (
+        <div className="col-sm-10">
+            <div className="[ popupwrapper ]">
+                <Popup header='Lets chat!' />
+                <div className="[ popupwrapper_content ]">
+                    <ul>
+                        <li><b>Tlf:</b> +47 9604 9688</li>
+                        <li><b>e-post:</b> <a href="mailto:bben.solli@gmail.com?subject=A new visitor from benni.no">bben.solli@gmail.com</a></li>
+                        <li><a href="https://www.linkedin.com/in/benjamin-solli-873448119/"> Linkedin</a></li>
+                    </ul>
+                </div>
+                <div className="[ popupwrapper_buttons ]">
+                    <Back />
+                </div>
+            </div>
+        </div>
+
+    );
+}
+
+
+
+/*
 export default () => {
+
     const [firstname, setFirstname] = useState('');
     const [lastname, setLastname] = useState('');
     const [email, setEmail] = useState('');
@@ -49,6 +77,7 @@ export default () => {
         let messageToken = Math.floor(Math.random() * 1000);
         localStorage.setItem(`Message id: ${messageToken}`, messageData);
     }
+    
     return (
         <div className="col-sm-10">
             <div className="[ popupwrapper ]">
@@ -108,3 +137,4 @@ export default () => {
 
     );
 }
+*/

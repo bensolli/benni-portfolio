@@ -11,7 +11,7 @@ export default () => {
         <div className="col-sm-10">
             <div className="[ popupwrapper ]">
                 <Popup
-                    header='BIO'
+                    header='Biography'
                 />
                 <div className="[ popupwrapper_content ]">
                     <Bio
