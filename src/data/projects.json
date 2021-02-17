@@ -5,7 +5,7 @@
         "desc": " ",
         "linkDescription1": "Les Oppgaven her:",
         "linkDescription2": " ",
-        "iframe": "https://online.fliphtml5.com/glzce/tavh/",
+        "iframeURL": "https://online.fliphtml5.com/glzce/tavh/",
         "links": [
             "https://online.fliphtml5.com/glzce/tiuv/",
             " "
@@ -18,7 +18,7 @@
         "desc": "Noroff samarbeid med Besseggen Arkitekter. Oppgave i å designe og utvikle ny nettside for Besseggen Arkitekter",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": " ",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             "http://besseggen.benni.no/",
             " "
@@ -32,7 +32,7 @@
         "desc": "Oppgaven som konkluderer fullført første år på front-end utvikling. Problemstillingen var valgfritt, men måtte teste oss på hva vi hadde lært så langt av enkle JavaScript funksjoner, html5, css og interaksjonsdesign. I forbindelse med at Lørn.tech trengte en ny oppfriskning av sin nettside, klaffet det godt å bruke dem som utgangspunkt i min prosjekt-eksamen. i tillegg til Prosjekteksamens krav, ønsket jeg også å undersøke hvordan det kunne integreres som et custom theme i WordPress. Takknemlig for et godt samarbeid med prosjektlederne for Lørn, Linda Hesselberg og Kristine Masdal Aadne fikk vi diskutert og undersøkt hva som burde være med, fjernes, eventuelt omformes i et nytt informasjonsarkitektur til det nye designet.",
         "linkDescription1": " ",
         "linkDescription2": " ",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             " ",
             " "
@@ -45,7 +45,7 @@
         "desc": "Første utvikling av nettside på fagskoleutdanningen Front-end Utvikling på Noroff. Fiksjonell nettside for et sykkeltur-tilbud.",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": " ",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             "http://recycle.benni.no/",
             " "
@@ -58,7 +58,7 @@
         "desc": "Styletiles er som et visuell identitet som konsenterer på funksjonaliteten i en nettside.",
         "linkDescription1": " ",
         "linkDescription2": " ",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             " ",
             " "
@@ -71,7 +71,7 @@
         "desc": " ",
         "linkDescription1": " ",
         "linkDescription2": " ",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             " ",
             " "
@@ -84,7 +84,7 @@
         "desc": "Redesign av Front-end Utvikling, studieside | Course assignment/kursseksamen, konkluderende oppgave for fullført kurs i “Workflow” her ble vi testet på hvordan jobbe agile og i Scrum-metoden. Som et gruppe prosjekt ble vi også testet på hvordan vi ved bruk av Github skulle samarbeide på best mulig måte. Gruppemedlemmer: Alexander Sem Scrum master, Benjamin Solli(meg) Art director, Faisal Hameed JavaScript, Merethe Myrhaug Footer & ImageSlider",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": "Link til GitHub:",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             "https://workflow.benni.no/",
             " "
@@ -97,7 +97,7 @@
         "desc": "I semester prosjekt 3 fikk jeg i oppgave å utvikle et brettspill inspirert av den verdensberømte tv-serien Game of Thrones. Brettspillet skulle bygges med JavaScript, HTML5 og SASS. Det var også et stort bonus å lage eget designkonsept, som er inspirert av den kjente Lego Minimalist Campaign. For å øke brukeropplevelsen er spillet integrert med lydeffekter og programmert til å fungere via tastaturet. Resurces: http://soundbible.com/",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": "Link til GitHub:",
-        "iframe": " ",
+        "iframeURL": " ",
         "links": [
             "http://got.benni.no",
             "https://github.com/bensolli/benni-semesterproject-3"
