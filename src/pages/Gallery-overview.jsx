@@ -6,7 +6,7 @@ import Back from "../components/back";
 import work from '../data/projects.json'
 
 export default () => {
-    const [characters, setCharacters] = useState(work);
+    const [characters] = useState(work);
     const [characterResults, setCharacterResults] = useState([]);
     const [isResultsFiltered, setIsResultsFiltered] = useState(false);
     const [SearchPhrase, setSearchPhrase] = useState('');

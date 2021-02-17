@@ -28,7 +28,7 @@ export default ({ match: { params: { id } } }) => {
                                 links2={`${data[posts].links[1]}`}
                                 linkDescription1={data[posts].linkDescription1}
                                 linkDescription2={data[posts].linkDescription2}
-                                iframe={data[posts].iframe}
+                                iframeURL={data[posts].iframeURL}
                             />
                         </div>
                     }
