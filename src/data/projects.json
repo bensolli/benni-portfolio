@@ -20,7 +20,7 @@
         "linkDescription2": " ",
         "iframeURL": " ",
         "links": [
-            "http://besseggen.benni.no/",
+            "https://besseggen.benni.no/",
             " "
         ],
         "img": "../images/besseggen.png"
@@ -30,11 +30,11 @@
         "id": 3,
         "name": "Lørn.tech",
         "desc": "Oppgaven som konkluderer fullført første år på front-end utvikling. Problemstillingen var valgfritt, men måtte teste oss på hva vi hadde lært så langt av enkle JavaScript funksjoner, html5, css og interaksjonsdesign. I forbindelse med at Lørn.tech trengte en ny oppfriskning av sin nettside, klaffet det godt å bruke dem som utgangspunkt i min prosjekt-eksamen. i tillegg til Prosjekteksamens krav, ønsket jeg også å undersøke hvordan det kunne integreres som et custom theme i WordPress. Takknemlig for et godt samarbeid med prosjektlederne for Lørn, Linda Hesselberg og Kristine Masdal Aadne fikk vi diskutert og undersøkt hva som burde være med, fjernes, eventuelt omformes i et nytt informasjonsarkitektur til det nye designet.",
-        "linkDescription1": " ",
+        "linkDescription1": "Se nåværende side:",
         "linkDescription2": " ",
         "iframeURL": " ",
         "links": [
-            " ",
+            "https://www.lorn.tech/",
             " "
         ],
         "img": "../images/lorn_tech.png"
@@ -47,7 +47,7 @@
         "linkDescription2": " ",
         "iframeURL": " ",
         "links": [
-            "http://recycle.benni.no/",
+            "https://recycle.benni.no/",
             " "
         ],
         "img": "../images/recycle.png"
@@ -99,7 +99,7 @@
         "linkDescription2": "Link til GitHub:",
         "iframeURL": " ",
         "links": [
-            "http://got.benni.no",
+            "https://got.benni.no",
             "https://github.com/bensolli/benni-semesterproject-3"
         ],
         "img": "../images/game-of-thrones.png"
