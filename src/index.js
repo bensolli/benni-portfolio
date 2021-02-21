@@ -18,7 +18,6 @@ import * as serviceWorker from './serviceWorker';
 import About from './pages/About';
 import Dashboard from './pages/Dashboard';
 import Gallery from './pages/Gallery';
-
 import Backgrounds from './pages/Backgrounds';
 import GalleryOverview from './pages/Gallery-overview';
 
@@ -36,7 +35,7 @@ ReactDOM.render(
                 <Route path="/gallery/:id" exact component={Gallery} />
                 <Route path="/backgrounds" component={Backgrounds} />
                 <Route path="/galleryoverview" component={GalleryOverview} />
-        
+                <Route path="*" component={Homepage} />
             </Switch>
         </App>
     </Router>,

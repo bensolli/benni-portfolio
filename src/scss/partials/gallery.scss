@@ -47,3 +47,9 @@
         transition: ease-in-out 0.2s;
     }
 }
+
+@media screen and (max-width: 992px) {
+    .workCard{
+        width: 96%;
+    }
+}

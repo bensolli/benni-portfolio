@@ -93,7 +93,7 @@
     },
     {
         "id": 8,
-        "name": "Game of Thrones The board game",
+        "name": "GOT boardgame",
         "desc": "I semester prosjekt 3 fikk jeg i oppgave å utvikle et brettspill inspirert av den verdensberømte tv-serien Game of Thrones. Brettspillet skulle bygges med JavaScript, HTML5 og SASS. Det var også et stort bonus å lage eget designkonsept, som er inspirert av den kjente Lego Minimalist Campaign. For å øke brukeropplevelsen er spillet integrert med lydeffekter og programmert til å fungere via tastaturet. Resurces: http://soundbible.com/",
         "linkDescription1": "Link til nettsiden:",
         "linkDescription2": "Link til GitHub:",
@@ -103,6 +103,20 @@
             "https://github.com/bensolli/benni-semesterproject-3"
         ],
         "img": "../images/game-of-thrones.png"
+    },
+
+    {
+        "id": 9,
+        "name": "SHOPLABS",
+        "desc": "Webdesign og illustrasjon",
+        "linkDescription1": "Link til nettsiden:",
+        "linkDescription2": "Link til GitHub:",
+        "iframeURL": " ",
+        "links": [
+            "https://shoplabs.no",
+            " "
+        ],
+        "img": "../images/shoplabs.png"
     }
     
 ]
