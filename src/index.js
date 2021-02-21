@@ -35,7 +35,6 @@ ReactDOM.render(
                 <Route path="/gallery/:id" exact component={Gallery} />
                 <Route path="/backgrounds" component={Backgrounds} />
                 <Route path="/galleryoverview" component={GalleryOverview} />
-                <Route path="*" component={Homepage} />
             </Switch>
         </App>
     </Router>,
